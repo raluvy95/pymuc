@@ -1,0 +1,7 @@
+#!/bin/env python3
+from src.main import main
+from src.args import argument
+
+if __name__ == "__main__":
+    args = argument().parse_args()
+    main(args)
