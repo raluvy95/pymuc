@@ -1,4 +1,4 @@
-![img](./README.md)
+![screenshot](screenshot.png)
 
 # Pymuc
 
