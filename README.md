@@ -1,3 +1,5 @@
+![](./README.md)
+
 # Pymuc
 
 a Python variant of original [muc](https://github.com/nate-sys/muc) for who simply don't want to use original Rust-based version.
